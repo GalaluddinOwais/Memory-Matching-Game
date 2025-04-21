@@ -30,7 +30,7 @@ A card-flipping memory game where a player flips face-down cards to find matchin
 
 ## 🔗 Deployed Version
 
-Play the game here: [Memory Matching Game]([#](https://yosifshaban6.github.io/Memory-Matching-Game/))
+Play the game here: [Memory Matching Game]((https://yosifshaban6.github.io/Memory-Matching-Game/))
 
 ## Contributors
 
