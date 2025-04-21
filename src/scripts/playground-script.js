@@ -181,7 +181,7 @@ function createCards(gridSize) {
     gameGrid.innerHTML += `
         <div class="game-card ${cardSize}" id="${imoji}">
           <div class="game-card-front">
-            <img src="../public/images/iti-logo.svg" alt="1" />
+            <img src="../public/images/iti-logo2.svg" alt="1" />
           </div>
           <div class="game-card-back">
             ${imoji}
