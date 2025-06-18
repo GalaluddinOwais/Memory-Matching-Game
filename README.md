@@ -14,7 +14,12 @@ A card-flipping memory game where a player flips face-down cards to find matchin
 - **High Score** – Keeps track of the best time on each level (browser-local)
 - **Scoreboard** – Stores and displays top scores on each level (browser-local)
 
+## Demonstration
+
+![screen-capture1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9714f502-9a49-4879-97dd-25a4c1388eec)
+
 ## 🚧 Incoming Features
+
 
 - Multiplayer mode (turn-based)  
 - Global scoreboard
